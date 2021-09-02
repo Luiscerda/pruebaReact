@@ -1,0 +1,26 @@
+.tarjeta {
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;
+    /* background: url('../../images/circles.png') no-repeat, linear-gradient(to right, #A74CF2, #617BFB); */
+}
+.User-Tarjeta {
+    max-height: 140px;
+    max-width: 520px;
+}
+.User-Tarjeta-Info {
+    padding-left: 0;
+    padding-right: 75px;
+}
+.User-Tarjeta-Info h1{
+    font-size: 23px;
+    color: white;
+}
+.User-Tarjeta-Info h3{
+    font-size: 17px;
+    color: white;
+}
+.User-Tarjeta-Info p{
+    font-size: 11px;
+    color: white;
+}
